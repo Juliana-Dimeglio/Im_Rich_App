@@ -2,7 +2,7 @@
     package="com.example.im_rich_app">
    <application
         android:label="im_rich_app"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/diamond_icon">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
